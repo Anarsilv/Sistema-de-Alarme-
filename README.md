@@ -1,4 +1,5 @@
 PINOS:
+
 const int pir = 7; // Pino do sensor de movimento
 
 const int ldr = A0; // Pino do sensor de luz
